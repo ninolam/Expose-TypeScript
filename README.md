@@ -30,7 +30,7 @@ Il a été conçu pour le développement d'applications volumineuses et la trans
 Il permet de développer des applications JavaScript pour les deux côté client et côté serveur
 
 
-### 3. Quelques types de bases en TypeScript
+### 3. Syntaxe du typage en TypeScript
 
 TypeScript introduit la notion d’un typage un peu plus fort que pour le langage Javascript. Ce typage se manifeste par l’ajout de plusieurs types de bases ainsi qu’un typage statique.
 
