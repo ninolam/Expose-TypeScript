@@ -12,3 +12,10 @@ https://blog.cellenza.com/developpement-specifique/web-developpement-specifique/
 https://www.grafikart.fr/tutoriels/typescript-781
 
 https://blog.logrocket.com/7-bad-excuses-for-not-using-typescript-dbf5e603a9a8
+
+## Sommaire
+
+1. Qu'est que type Script ?
+2. Installation et configuration 
+3. Quelques types de bases en Typescript
+4. Syntaxe du typage
