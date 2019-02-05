@@ -20,9 +20,9 @@ https://blog.logrocket.com/7-bad-excuses-for-not-using-typescript-dbf5e603a9a8
 
 1. Qu'est que TypeScript ?
 2. Installation et configuration 
-3. Quelques types de bases en Typescript
+3. Quelques types de bases en TypeScript
 4. Syntaxe du typage
-5. Les modules, les classes
+5. Les modules et les classes
 6. String, number, array, functions
 7. Avantages et inconvénients
 8. Conclusion
