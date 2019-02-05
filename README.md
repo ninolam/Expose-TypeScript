@@ -18,7 +18,7 @@ https://blog.logrocket.com/7-bad-excuses-for-not-using-typescript-dbf5e603a9a8
 
 ## Sommaire
 
-1. Qu'est que type Script ?
+1. Qu'est que TypeScript ?
 2. Installation et configuration 
 3. Quelques types de bases en Typescript
 4. Syntaxe du typage
