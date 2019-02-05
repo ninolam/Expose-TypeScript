@@ -18,6 +18,7 @@ https://blog.logrocket.com/7-bad-excuses-for-not-using-typescript-dbf5e603a9a8
 8. Conclusion
 
 ---
+
 ### 1. Qu'est-ce que TypeScript ?
 
 TypeScript est un langage de programmation open-source développé par Microsoft en 2012.
@@ -29,7 +30,14 @@ Il a été conçu pour le développement d'applications volumineuses et la trans
 
 Il permet de développer des applications JavaScript pour les deux côté client et côté serveur
 
+#### Pourquoi a t-il été conçu ?
+
+TypeScript est né des faiblesses de JavaScript pour le développement d'applications à grande échelle, chez microsoft et leur clients externes.
+
+Les développeurs de TypeScript recherchaient une solution qui ne romprait pas la compatibilité avec la norme et son support multi plate-forme
+
 ----
+
 
 ### 3. Syntaxe du typage en TypeScript
 
