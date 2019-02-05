@@ -82,4 +82,32 @@ Dans l’exemple ci-dessous, les 2 premières déclarations de variables sont ty
 
 ----
 
+### 5. Les modules et les classes 
 
+La classe est la notion qui définit un objet, elle est l’un des concepts clés de la programmation orientée objet avec l’interface. Ces dernières sont utilisées en tandem au travers de structures appelées “design pattern” dont l’objectif est de résoudre des problèmes spécifiques. Le TypeScript pousse les choses plus loin en permettant de gérer la visibilité des propriétés et la gestion des méthodes statiques.
+
+ Ci-dessous un exemple de classe.
+
+ ```TypeScript
+class Personnage {
+   public fullname: string;
+ 
+   constructor(firstname: string, lastname: string) {
+       this.fullname = `${firstname} ${lastname}`;
+   }
+ 
+   public greet(name?: string): string {
+       if(name)
+           return "Bonjour " + name + "! Je m'appelle " + this.fullname;
+ 
+       return "Bonjour! Je m'appelle " + this.fullname;
+    }
+}
+ 
+let vendeur = new Personnage("Pierre","Paul");
+let msg = vendeur.greet("");
+ 
+alert(msg);
+
+ ```
+ Dans cet exemple nous avons défini une classe “Personnage”. Pour accéder aux variables de classe, on utilise le mot-clé “this”.
