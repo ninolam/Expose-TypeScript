@@ -20,9 +20,31 @@ https://blog.logrocket.com/7-bad-excuses-for-not-using-typescript-dbf5e603a9a8
 
 1. Qu'est que TypeScript ?
 2. Installation et configuration 
-3. Quelques types de bases en TypeScript
-4. Syntaxe du typage
+3. Syntaxe du typage en TypeScript
 5. Les modules et les classes
 6. String, number, array, functions
 7. Avantages et inconvénients
 8. Conclusion
+
+
+
+
+### 3. Quelques types de bases en TypeScript
+
+TypeScript introduit la notion d’un typage un peu plus fort que pour le langage Javascript. Ce typage se manifeste par l’ajout de plusieurs types de bases ainsi qu’un typage statique.
+
+Rappelons qu’un langage est dit de typage statique quand celui-ci vérifie les types des variables à la compilation, alors qu’un langage dit de typage dynamique,effectue cette vérification à l’exécution.
+
+```TypeScript
+
+let myVar: boolean;
+
+let myVarinitialize: number = 2;
+
+let bar = "hello world";
+```
+Dans l’exemple ci-dessous, les 2 premières déclarations de variables sont typées explicitement et la dernière l’est implicitement. 
+
+
+
+
