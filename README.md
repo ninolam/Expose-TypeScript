@@ -12,13 +12,13 @@ https://blog.logrocket.com/7-bad-excuses-for-not-using-typescript-dbf5e603a9a8
 1. Qu'est-ce que TypeScript ?
 2. Installation et configuration 
 3. Syntaxe du typage en TypeScript
-5. Les modules et les classes
-6. String, number, array, functions
+5. Quelques type en TypeScript: String, number, array, functions
+6. Les modules et les classes
 7. Avantages et inconvénients
 8. Conclusion
 
-
-## 1. Qu'est-ce que TypeScript ?
+---
+### 1. Qu'est-ce que TypeScript ?
 
 TypeScript est un langage de programmation open-source développé par Microsoft en 2012.
 
@@ -29,6 +29,7 @@ Il a été conçu pour le développement d'applications volumineuses et la trans
 
 Il permet de développer des applications JavaScript pour les deux côté client et côté serveur
 
+----
 
 ### 3. Syntaxe du typage en TypeScript
 
@@ -46,6 +47,6 @@ let bar = "hello world";
 ```
 Dans l’exemple ci-dessous, les 2 premières déclarations de variables sont typées explicitement et la dernière l’est implicitement. 
 
-
+----
 
 
